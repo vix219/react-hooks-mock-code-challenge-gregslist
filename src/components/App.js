@@ -18,6 +18,7 @@ function App() {
 
   return (
     <div className="app">
+      
       <Header />
       <ListingsContainer listings={listings} />
     </div>
